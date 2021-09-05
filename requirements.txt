@@ -1,0 +1,10 @@
+jupyterlab
+keras
+matplotlib
+numpy
+pandas
+sklearn
+tensorflow
+pickle
+scipy
+tkinter
